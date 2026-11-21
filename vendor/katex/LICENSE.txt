@@ -1,0 +1,1 @@
+KaTeX 0.16.9 — https://katex.org — MIT licence (c) 2013-2020 Khan Academy and other contributors.
